@@ -1,0 +1,43 @@
+.list-inline{
+    border-bottom: 1px solid #d9d9d9;
+}
+.header {
+    margin-top: 30px;
+}
+
+.link{color:white !important; }
+
+
+.userProgress {
+    margin-top: 20px;
+    width: 600px;
+}
+
+.userProgress .progress {
+    height: 30px;
+}
+
+.number {
+    margin-top: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.ju {
+    display: block;
+    height: 80px;
+    width: 80px;
+    background: url('../assets/img/ju.jpg');
+    background-size: cover;
+}
+
+.thumbnail .col-xs-4 {
+    padding: 0 6px;
+}
+
+.thumbnail h1 {
+    margin: 10px;
+    padding: 0;
+    font-size: 15px;
+}
